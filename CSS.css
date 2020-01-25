@@ -1,0 +1,20 @@
+.menu
+{
+	display: block;
+	float: center;
+	background-color:green;
+	text-align: center;
+}
+h3
+{
+	color: red;
+}
+.menu ul li a
+{
+	text-decoration: none;
+	font: 1em "Trebuchet MS",Arial,sans-serif ;
+}
+.menu ul li a:hover
+{
+	color: white;
+}
