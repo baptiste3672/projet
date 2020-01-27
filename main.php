@@ -113,7 +113,9 @@
     		<li style="color: red">Presentation</li>
     		<li style="color: blue">PHP</li>
     		<li style="color: orange">MySQL</li>
+            <li style="color: black"><a href="bonjour.php?nom=Nebra&amp;prenom=Mathieu&amp;">Dis-moi bonjour</a></li>
     	</ul>
-        <p>Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.</p>
+        <p>Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.Un paragraphe est entré ici.
+       </p>
     </body>
 </html>
