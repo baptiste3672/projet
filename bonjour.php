@@ -23,7 +23,7 @@
 			{
 				echo 'Pas de nom ou de prénom défini !';
 			}
-		?>
+		?>	<!-- Bug au niveau de repetition -->
 	</p>	
 </body>
 </html>
