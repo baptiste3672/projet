@@ -110,7 +110,7 @@
           
     	<p>Bonjour, je suis un <em>paragraphe</em> de texte !</p>
     	<ul>
-    		<li style="color: red">Presentation</li>
+    		<li style="color: red"><a href="main1.php">Formulaire</a></li>
     		<li style="color: blue">PHP</li>
     		<li style="color: orange">MySQL</li>
             <li style="color: black"><a href="bonjour.php?nom=Nebra&amp;prenom=Mathieu&amp;">Dis-moi bonjour</a></li>
