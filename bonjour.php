@@ -10,9 +10,10 @@
 			if (isset($_GET['nom']) AND isset($_GET ['prenom']) AND isset($_GET['repeter']))
 			{	
 				$nRepetition = (int) $_GET['repeter'];
+				var_dump($nRepetition);
 				if ($nRepetition < 100) 
 				{
-					for ($repeter=0; $repeter <= $_GET['repeter'] ; $repeter++) 
+					for ($repeter=1; $repeter <= $_GET['repeter'] ; $repeter++) 
 					{ 
 					echo '<p>' . 'Bonjour ' .  $_GET['nom'] . ' ' . $_GET['prenom'] . '</p>' ;
 					}
