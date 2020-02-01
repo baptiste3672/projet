@@ -1,10 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<title>Test</title>
-</head>
-<body>
-	<h1>Test</h1>
-</body>
-</html>
+<?php 
+$bdd = new PDO('mysql:host=localhost;dbname=test', 'root', '');
+$reponse = $bdd->query('SELECT * FROM jeux_video');
+while($donnees = $reponse->fetch())
+{
+	echo $donnees['nom'], '<br>';
+ }?>
